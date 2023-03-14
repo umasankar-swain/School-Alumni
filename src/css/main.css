@@ -1,0 +1,159 @@
+.reunite {
+    background: #F2F2F2;
+    padding: 100px 0;
+    transform: skewY(-5deg);
+}
+
+.content {
+    /* text-align: center; */
+    transform: skewY(5deg);
+}
+
+/* ......about.............. */
+/* .about{
+    position: relative;
+    top: -250px !important;
+} */
+.iconcls {
+    border: 2px dotted #f8d4d5;
+    font-size: 32px !important;
+    color: #e03a3c;
+    border-radius: 50%;
+    padding: 5px 0px 2px 0px;
+}
+.swiper-pagination .swiper-pagination-bullet {
+    width: 12px;
+    height: 12px;
+    background-color: #fff;
+    opacity: 1;
+    border: 1px solid #e03a3c;
+
+}
+
+.swiper-pagination {
+    /* position: unset !important; */
+    margin-top: 17px;
+}
+
+.swiper-pagination .swiper-pagination-bullet-active {
+    background-color: #e03a3c;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* ----------------------------------------------------------------------- */
+.reunite {
+    background: #F2F2F2;
+    padding: 100px 0;
+    transform: skewY(-5deg);
+}
+
+.content {
+    /* text-align: center; */
+    transform: skewY(5deg);
+}
+
+/* ......about.............. */
+/* .about{
+    position: relative;
+    top: -250px !important;
+} */
+.iconcls {
+    border: 2px dotted #f8d4d5;
+    font-size: 32px !important;
+    color: #e03a3c;
+    border-radius: 50%;
+    padding: 5px 0px 2px 0px;
+}
+
+.swiper-pagination .swiper-pagination-bullet {
+    width: 12px;
+    height: 12px;
+    background-color: #fff;
+    opacity: 1;
+    border: 1px solid #e03a3c;
+
+}
+
+.swiper-pagination {
+    /* position: unset !important; */
+    margin-top: 17px;
+}
+
+.swiper-pagination .swiper-pagination-bullet-active {
+    background-color: #e03a3c;
+}
+
+.slick-slide img {
+    margin: auto;
+    /* height: 70vh !important; */
+    /* object-fit: cover; */
+
+}
+
+.slick-slide {
+    height: 90vh !important;
+}
+
+.backbtn {
+    position: relative;
+    top: 20px;
+}
+
+.desktopNav .active {
+    color: #ca0000;
+}
+
+.mobileNav .active {
+    color: #ca0000;
+}
+
+.css-1ltezim:active {
+    background: none !important;
+}
+
+.css-1ltezim:focus {
+    box-shadow: none !important;
+}
+
+/* ---------scroll to top button------ */
+
+.top-to-btm {
+    position: relative;
+}
+
+.icon-position {
+    position: fixed;
+    bottom: 70px;
+    right: 25px;
+    z-index: 20;
+}
+
+.icon-style {
+    background-color: #e03a3c;
+    border-radius: 20% !important;
+    height: 40px !important;
+    width: 50px;
+    color: #fff;
+    cursor: pointer;
+    animation: movebtn 3s ease-in-out infinite;
+    transition: all .5s ease-in-out;
+}
+
+.font-link {
+    font-family: 'Signika Negative', sans-serif;
+}
+
+/* ------------------------------------Pagination------------------------ */
+.paginate{
+    display: flex;
+}
